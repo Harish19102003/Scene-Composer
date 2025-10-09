@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+
+# Data and large assets
+data/
+!data/.gitkeep
+checkpoints/
+logs/
+outputs/
+wandb/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# Cache
+.cache/
+
+# Images generated
+*.png
+*.jpg
+*.jpeg
+
+# TensorBoard
+runs/
+
