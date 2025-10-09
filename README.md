@@ -32,7 +32,7 @@ A deep learning model that generates detailed scene narrations from images, buil
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Harish19102003/Scene-Composer.git
 cd Scene-Composer
 ```
 
